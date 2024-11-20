@@ -32,6 +32,7 @@
 	</properties>
 	<dependencies>
 
+
 	//THIS IS DONE BY DEV RAHUL
 <dependency>
 			<groupId>org.sprFDNFBDSN</groupId>
@@ -40,6 +41,15 @@
 
 
 	//THIS IS DONE BY DEV
+
+
+	//THIS IS DONE BY DEV SACHIN
+<dependency>
+			<groupId>org.sp61545r</groupId>
+			<artifactId>springte55454st</artifactId>
+		</dependency>	
+		//THIS IS DONE BY DEV
+
 <dependency>
 			<groupId>org.spr</groupId>
 			<artifactId>springtest</artifactId>
